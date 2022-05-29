@@ -1,7 +1,8 @@
 ## Calculator-using-Flask
+Build a GUI based calulator using Flask and Python.
 
 
-## Model Training Results
+## Results
 ![Results](https://github.com/Muhammad-Nouman-Ahmed/Calculator-using-Flask/blob/main/Capture.PNG)
 
 ## Requirement
