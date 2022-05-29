@@ -1,5 +1,5 @@
 ## Calculator-using-Flask
-Build a GUI based calulator using Flask and Python.
+Build a GUI based calculator using Flask and Python.
 
 
 ## Results
